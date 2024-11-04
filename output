@@ -1,0 +1,49 @@
+#OUTPUT
+
+Welcome to Union Bank Of India V.kota Chittoor 
+enter your name:S Shakeel Ahmad
+enter you pan-card no:ls2430
+enter your address:1-1000,Vkota
+
+Congratulations S Shakeel Ahmad! Your account created successfully
+
+1.Deposit
+2.WithDraw
+3.Mini Statement
+4.Stop
+
+Enter your choice:1
+
+enter the amount you want to deposit  :10000
+
+10000.0 amount is deposited into your account successfully
+Your current balance is 10000.0
+
+1.Deposit
+2.WithDraw
+3.Mini Statement
+4.Stop
+
+Enter your choice:2
+
+enter the amount you want to withdraw   :5000
+5000.0 withdrawn successfully
+Your current balance is 5000.0
+
+1.Deposit
+2.WithDraw
+3.Mini Statement
+4.Stop
+
+Enter your choice:3
+
+S Shakeel Ahmad your current balance is 5000.0
+
+1.Deposit
+2.WithDraw
+3.Mini Statement
+4.Stop
+
+Enter your choice:4
+
+Thank you S Shakeel Ahmad for using Union Bank Of India........
